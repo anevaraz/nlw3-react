@@ -1,5 +1,7 @@
-import React from 'react';
+import React from 'react'
 import './styles/global.css'
+import 'leaflet/dist/leaflet.css'
+
 import Routes from './routes'
 
 function App() {
@@ -8,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
